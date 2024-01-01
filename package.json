@@ -24,7 +24,7 @@
     "@babel/eslint-parser": "^7.21.3",
     "@commitlint/cli": "^17.6.1",
     "@commitlint/config-conventional": "^17.6.1",
-    "@release-it/conventional-changelog": "^5.1.1",
+    "@release-it/conventional-changelog": "^8.0.0",
     "dotenv-cli": "^7.2.1",
     "eslint": "^8.38.0",
     "eslint-config-prettier": "^8.8.0",
